@@ -8,7 +8,7 @@ const PaginaLogueo = () => {
 
 
 
-  if (loading) return <h1> CARGAND... </h1>
+  if (loading) return <h1> CARGANDO... </h1>
 
   return (
     <div className="grid-layout">
