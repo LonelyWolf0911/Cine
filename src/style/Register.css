@@ -15,9 +15,13 @@
     /* Centra horizontalmente en la pantalla */
 }
 
+.register-container span{
+    color: white;
+}
 .register-container p{
 color: white;
 }
+
 
 
 .register-footer {

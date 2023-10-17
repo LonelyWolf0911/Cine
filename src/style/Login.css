@@ -1,6 +1,10 @@
 body{
     background-color: #382247;
 }
+
+.login-container span{
+    color: white;
+}
 .login-content {
     display: flex;
     flex-direction: column;
