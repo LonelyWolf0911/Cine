@@ -19,8 +19,8 @@ body{
 }
 
 
-p{
-    color: white;
+.login-content p{
+color: white;
 }
 
 a:hover{

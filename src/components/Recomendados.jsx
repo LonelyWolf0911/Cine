@@ -1,5 +1,5 @@
 import React from "react";
-
+import '../style/Recomendados.css'
 
 export const Recomendados = () => {
     return (

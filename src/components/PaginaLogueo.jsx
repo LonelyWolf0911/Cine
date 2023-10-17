@@ -1,5 +1,4 @@
 import React from 'react';
-import '../style/GridLayout.css'
 import { useAuth } from '../context/authContext';
 import Footer from './Footer';
 

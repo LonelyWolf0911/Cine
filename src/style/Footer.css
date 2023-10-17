@@ -1,4 +1,5 @@
 .footer p {
     margin: 10px; /* Agrega márgenes alrededor del párrafo para ajustar su posición */
     padding: 0; /* Ajusta el padding a 0 para eliminar el relleno predeterminado */
+    color: white;
   }

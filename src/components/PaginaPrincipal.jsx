@@ -1,5 +1,6 @@
 import React from 'react';
 import '../style/GridLayout.css'
+import '../style/PaginaPrincipal.css'
 import Footer from './Footer';
 
 
